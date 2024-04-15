@@ -2,6 +2,10 @@
 <b>Customer Management Service<br><br><br>
 <span>
 
+
+https://github.com/knightravan/Customer_Management_Service/assets/68102591/04cadbd0-aefa-418f-adb4-2c6911d88151
+
+
 Customer Management Service is a graphical user interface (GUI) application designed to manage user credit accounts.
 It provides functionalities for storing user credentials securely, allowing users to log in to their accounts or register new accounts.
 
